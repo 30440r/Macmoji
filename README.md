@@ -13,7 +13,7 @@
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
 ## Other Installations
-Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list. If you add emoji substitutions to the base `.plist` simply run `python2 scripts/update-output.py` (`python3` will fail) *from the scripts directory* and the various outputs based on the templates in `templates/*` will be generated and placed in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
+Macmoji has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list, thanks to the fantastic work of [rael9](https://github.com/rael9). If you add emoji substitutions to the base `.plist` simply run `python2 scripts/update-output.py` (`python3` will fail) *from the scripts directory* and the various outputs based on the templates in `templates/*` will be generated and placed in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
 
 ### Keyboard Maestro Version
 
