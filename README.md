@@ -26,7 +26,7 @@ If you'd prefer to use Keyboard Maestro to handle the substitutions, import the 
 If you'd prefer to import these shortcuts with Alfred as Snippets just drag the `.alfredsnippets` into Alfred's Snippet preferences!
 
 ### Install Script (Deprecated)
-There used to be a CLI for installing Macmoji but it was brittle and tended to break with every other Mac OS version. I wasn't able to get it working for Big Sur and the drag/drop installation still works quite well so that is the only way to install it at this time!
+There used to be a CLI for installing Macmoji but it was brittle and tended to break with every other Mac OS version. It doesn't work on Big Sur and Monterey, but the drag/drop installation still works quite well so that is the only way to install it on Big Sur and/or Monterey at this time!
 
 ## FAQ
 
@@ -67,7 +67,7 @@ No clue. Beats me. Have a hunch why? I'd love to hear it!
 
 ## Change Log
 
-Looking to update to the [latest release](https://github.com/warpling/Macmoji/releases/latest)? The best way to update is to remove all previously added substitutions, then drag in the `.plist` again (hold `Shift` to select all the colon clad substitutions).
+Looking to update to the [latest release](https://github.com/30440r/Macmoji/releases/latest)? The best way to update is to remove all previously added substitutions, then drag in the `.plist` again (hold `Shift` to select all the colon clad substitutions).
 **Tip:** You can always back-up substitutions by selecting and dragging them out of the list!
 
 |       Date       |       Commit       |       Changes       |
