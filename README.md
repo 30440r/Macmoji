@@ -4,7 +4,7 @@
 
 #### _Psst!_ Upgrading from a previous version of Macmoji? [Read this first](#change-log).
 
-1. [Download `emojiSubstitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emojiSubstitutions.plist) (make sure it has the extension `.plist`)
+1. [Download Macmoji](https://raw.githubusercontent.com/warpling/Macmoji/master/emojiSubstitutions.plist) (make sure it has the extension `.plist`)
 2. Open System Preferences and navigate to **Keyboard** > **Text**
 3. Drag the `emojiSubstitutions.plist` to the list of substitutions to add them
 4. Type something like `:boom:` or `:blackbox:` and hit `Space` after! 💥⬛️
