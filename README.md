@@ -21,11 +21,12 @@ If you'd prefer to use Keyboard Maestro to handle the substitutions, import the 
 
 *(This macro was created and tested using version 6. It has not been tested with other versions.)*
 
-### Alfred Version
+### Alfred Version (Deprecated)
 
-If you'd prefer to import these shortcuts with Alfred as Snippets just drag the `.alfredsnippets` into Alfred's Snippet preferences!
+[There used to be a alfredsnippet for installing Macmoji](https://github.com/30440r/Macmoji/blob/master/) but it was too hard for me to maintain and test
 
 ### Install Script (Deprecated)
+
 [There used to be a CLI for installing Macmoji](https://github.com/30440r/Macmoji/blob/master/scripts/macmoji) but it was brittle and tended to break with every other Mac OS version. It doesn't work on Big Sur and Monterey, but the drag/drop installation still works quite well so that is the only way to install it on Big Sur and/or Monterey at this time!
 
 ## FAQ
