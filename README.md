@@ -23,7 +23,7 @@ If you'd prefer to use Keyboard Maestro to handle the substitutions, import the 
 
 ### Alfred Version (Deprecated)
 
-[There used to be a alfredsnippet for installing Macmoji](https://github.com/30440r/Macmoji/blob/master/) but it was too hard for me to maintain and test
+[There used to be a alfredsnippet for installing Macmoji](https://github.com/30440r/Macmoji/blob/master/old/Emoji.alfredsnippets) but it was too hard for me to maintain and test.
 
 ### Install Script (Deprecated)
 
